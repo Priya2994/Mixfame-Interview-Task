@@ -97,14 +97,12 @@ The code will add a new user.
 
 The code will delete the user matched the passed id.
 ## Screenshots
-
-![App Screenshot](URL)
-
-
-## Demo
+![mixframe-assignment](https://user-images.githubusercontent.com/52796685/179196121-bd32a2c2-c887-420b-9778-a5606720851f.png)
+![mixframe-assignment-add-user](https://user-images.githubusercontent.com/52796685/179196741-06a0043b-cef9-45c7-bf97-a1e0adae054f.png)
 
 
 ## Authors
 
 - [@priyanka](https://github.com/Priya2994)
+
 
